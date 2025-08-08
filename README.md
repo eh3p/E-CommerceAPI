@@ -1,7 +1,6 @@
 # E-Commerce API (.NET 9)
 
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/eh3p/E-CommerceAPI?style=social)
 ![Forks](https://img.shields.io/github/forks/eh3p/E-CommerceAPI?style=social)
 ![Issues](https://img.shields.io/github/issues/eh3p/E-CommerceAPI)
